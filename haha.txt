@@ -1,0 +1,7 @@
+hello world
+everything is OK
+fighting fighting
+
+
+hello Python
+hello hello
